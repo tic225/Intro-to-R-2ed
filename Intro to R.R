@@ -1,4 +1,5 @@
 # R script to accompany Intro to R
+
 # Copy for Tiffany Chen 2021
 ######################################################
 
