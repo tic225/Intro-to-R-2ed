@@ -38,7 +38,7 @@ y <- as.integer(y)
 class(y)
 typeof(y)
 
-
+cat("Hi!")
 
 # How to programmatically clear console
 cat("\014") 
@@ -179,7 +179,7 @@ Z <- c(2, NA, 6, 8, NA, 12)
 Z
 is.na(Z)
 
-Z <- c(2, NULL, 6, 8, NA, 12)
+Z <- c(2, NULL, 6, 8, NULL, 12)
 Z
 is.na(Z)
 
